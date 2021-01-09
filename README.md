@@ -44,9 +44,9 @@ SIMPO_algorithm_result.txt
 
 1. Input file: `src/python/data/test_GPL.txt`, `src/python/data/test_GSE40279_average_beta.txt`.
 
-2. Output file:`src/python/result/tmp_cg_gene_type_file.txt.txt`,  `src/python/result/tmp_gene_type_cg_file.txt`, `src/python/result/SIMPO_algorithm_result.txt`.
+2. Output file: `src/python/result/tmp_cg_gene_type_file.txt.txt`,  `src/python/result/tmp_gene_type_cg_file.txt`, `src/python/result/SIMPO_algorithm_result.txt` .
 
- The final output file `src/python/result/SIMPO_algorithm_result.txt`contains the SIMPO score of each gene in all samples
+ The final output file `src/python/result/SIMPO_algorithm_result.txt` contains the SIMPO score of each gene in all samples
 
 
 
