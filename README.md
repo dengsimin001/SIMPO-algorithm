@@ -2,10 +2,9 @@
 The algorithm is related to the research *Mining the Selective Remodeling of DNA Methylation in Promoter Regions to Identify Robust Gene-Level Associations with Phenotype*. In this study, we have proposed the statistical difference of DNA Methylation between Promoter and Other Body Region (SIMPO) algorithm to mining gene-level DNA methylation associations with phenotype.</br>
 @author Yuan Quan, Fengji Liang, Si-Min Deng, Yuexing Zhu, Ying Chen, Jianghui Xiong
 
-## Structure
+## Content
 
 ```
-# Content
 SIMPO-algorithm
 ├─docs  -- 文档目录
 └─src
